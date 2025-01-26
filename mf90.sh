@@ -11,6 +11,9 @@ unzip webui
 
 # Menampilkan pilihan utama kepada pengguna
 while true; do
+ echo -e "${GREEN}Mohon di baca"
+  echo -e "${RED}Mengganti Webui pada mf90 memiliki kemungkinan erorwalau kecil, Kami Tidka BErtanggung jawab jika ada kesalhan, Silahkan Mencoba "
+   echo -e "${YELLOW}Semua TAmpilan WebUi kami Mbil Dari www.reload.id"
     echo -e "${YELLOW}Pilih opsi:"
     echo -e "${GREEN}1. Install WebUI"
     echo -e "${GREEN}2. Undo WebUI"
