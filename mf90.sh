@@ -26,8 +26,8 @@ while true; do
             # Pilihan Install WebUI
             echo -e "${GREEN}Anda memilih untuk menginstall WebUI..."
             echo -e "${YELLOW}Pilih versi WebUI:"
-            echo -e "${GREEN}1. Beline Biru"
-            echo -e "${GREEN}2. Beline"
+            echo -e "${GREEN}1. Beline kunig nodif ala ala  Biru"
+            echo -e "${GREEN}2. Beline kuning"
             echo -e "${GREEN}3. mf90+"
             echo -e "${GREEN}4. mf90reload.id"
             echo -e "${GREEN}5. tele2"
